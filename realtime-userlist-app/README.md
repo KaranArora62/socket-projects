@@ -33,5 +33,5 @@ A real-time user tracking application built with React, TypeScript, Socket.IO, E
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/Realtime-User-Tracker.git
+   git clone https://github.com/KaranArora62/realtime-userlist-app.git
    cd Realtime-User-Tracker
